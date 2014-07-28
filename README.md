@@ -28,7 +28,7 @@ Use `data-*` attributes to configure your button. These configurations directly 
 
 Supported widgets are currently:
 
-* Facebook: `facebook-like`
+* Facebook: `facebook-follow` and `facebook-like`
 * Twitter: `twitter-share`, `twitter-follow`, `twitter-mention`, `twitter-hashtag` and `twitter-embed` (for individual tweets)
 * Google+: `googleplus-one`, `googleplus-share`, `googleplus-badge`
 * LinkedIn: `linkedin-share`, `linkedin-recommend`
