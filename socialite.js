@@ -534,6 +534,7 @@ window.Socialite = (function(window, document, undefined)
         }
     };
 
+    Socialite.widget('facebook', 'follow', { init: facebookInit, fbtype: 'fb-follow' });
     Socialite.widget('facebook', 'like',   { init: facebookInit, fbtype: 'fb-like' });
     Socialite.widget('facebook', 'share',  { init: facebookInit, fbtype: 'fb-share-button' });
 
